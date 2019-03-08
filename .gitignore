@@ -1,0 +1,7 @@
+# ignnore everything apart from the following
+*
+!.gitignore
+!.SRCINFO
+!PKGBUILD
+!*.diff
+!*.patch
