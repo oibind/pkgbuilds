@@ -1,0 +1,15 @@
+pkgbase = xtrlock
+	pkgdesc = Minimal X display lock program
+	pkgver = 2.8
+	pkgrel = 2
+	url = https://packages.debian.org/sid/xtrlock
+	arch = x86_64
+	license = GPL3
+	depends = libx11
+	source = xtrlock-2.8.tar.gz::http://ftp.debian.org/debian/pool/main/x/xtrlock/xtrlock_2.8.tar.gz
+	source = noimage.patch
+	sha512sums = a1388250430f7cb7bfe875aae938c332098f9e88ab7a17d68634b36726acfa7a459bf40f71e6df3c6b1256fb4574a62b2fc72357c6e779c1bc55f10204634068
+	sha512sums = SKIP
+
+pkgname = xtrlock
+
