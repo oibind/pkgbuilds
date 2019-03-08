@@ -17,6 +17,7 @@ sha512sums=('a1388250430f7cb7bfe875aae938c332098f9e88ab7a17d68634b36726acfa7a459
 
 build() {
   cd ${pkgname}-${pkgver}
+  patch -p1 -i ${srcdir}/noimage.patch
   make -f Makefile.noimake CFLAGS="${CFLAGS} -DSHADOW_PWD" LDLIBS="-lX11 -lcrypt" xtrlock
 }
 
