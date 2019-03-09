@@ -1,0 +1,6 @@
+[submodule "luakit"]
+	path = luakit
+	url = ssh://aur@aur.archlinux.org/luakit.git
+[submodule "ruby-thread_safe"]
+	path = ruby-thread_safe
+	url = ssh://aur@aur.archlinux.org/ruby-thread_safe.git
