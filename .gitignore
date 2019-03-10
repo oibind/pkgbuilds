@@ -1,7 +1,4 @@
-# ignnore everything apart from the following
-*
-!.gitignore
-!.SRCINFO
-!PKGBUILD
-!*.diff
-!*.patch
+*.pkg.tar.*
+*.tar.*
+pkg
+src
