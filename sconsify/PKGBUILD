@@ -1,5 +1,6 @@
 # Maintainer: Luís Ferreira <contact@lsferreira.net>
 # Contributor: Andrew Walls <andrew.walls2 (at) gmail.com>
+# Contributor: Aoibhinn Nic Aoidh <oibind@pm.me>
 
 pkgname=sconsify
 pkgver=0.6.0
