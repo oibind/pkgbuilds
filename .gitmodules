@@ -4,6 +4,3 @@
 [submodule "ruby-thread_safe"]
 	path = ruby-thread_safe
 	url = ssh://aur@aur.archlinux.org/ruby-thread_safe.git
-[submodule "mullvad-vpn-bin-beta"]
-	path = mullvad-vpn-bin-beta
-	url = ssh://aur@aur.archlinux.org/mullvad-vpn-bin-beta.git
