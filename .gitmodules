@@ -4,3 +4,6 @@
 [submodule "ruby-thread_safe"]
 	path = ruby-thread_safe
 	url = ssh://aur@aur.archlinux.org/ruby-thread_safe.git
+[submodule "sconsify"]
+	path = sconsify
+	url = ssh://aur@aur.archlinux.org/sconsify.git
