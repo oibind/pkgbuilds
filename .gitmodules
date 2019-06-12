@@ -7,3 +7,6 @@
 [submodule "sconsify"]
 	path = sconsify
 	url = ssh://aur@aur.archlinux.org/sconsify.git
+[submodule "obsh-git"]
+	path = obsh-git
+	url = ssh://aur@aur.archlinux.org/obsh-git.git
