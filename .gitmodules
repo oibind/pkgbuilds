@@ -7,3 +7,6 @@
 [submodule "obsh-git"]
 	path = obsh-git
 	url = ssh://aur@aur.archlinux.org/obsh-git.git
+[submodule "lf-bin"]
+	path = lf-bin
+	url = ssh://aur@aur.archlinux.org/lf-bin.git
